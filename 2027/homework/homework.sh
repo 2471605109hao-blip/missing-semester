@@ -1,3 +1,4 @@
+#!/bin/bash
 # 1.输出当前时间
 echo "===当前时间===" > output.txt
 date >> output.txt
